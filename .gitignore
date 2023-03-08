@@ -1,3 +1,5 @@
 /.idea/
 /Java.iml/
-/out/
+out/
+*
+!.gitignore
